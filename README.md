@@ -2,7 +2,7 @@
 
 $ pip install instaloader 
 
-Run our Code ! 
+Run this Code ! 
 
 Enter Username ! 
 
