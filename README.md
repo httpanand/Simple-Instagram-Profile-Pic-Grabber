@@ -8,5 +8,5 @@ Enter Username !
 
 You'll get profile pic of inputed instagram user ! 
 
-## THANK YOU
+
 
